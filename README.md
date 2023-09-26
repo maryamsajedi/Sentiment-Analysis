@@ -1,1 +1,3 @@
-# Sentiment-Analysis
+### Project of Database and Algorithm course, 2023-2024
+
+The automatic prediction of the sentiment polarity of a text has various applications in understanding human emotions, opinions, and attitudes expressed in text. In this project, we developed and evaluated the common approaches and algorithms used for sentiment analysis. Using a dataset of 205k product reviews with sentiment labels, we trained a Recurrent Neural Network (RNN) and experimented with different hidden units (vanilla, LSTM, and GRU), as well as the bi-directionality and other hyperparameters of the model. We then fine-tuned a pretrained transformers-based model (BERT), and compared these data-driven approaches with two baselines as Random and Lexion-Based.
